@@ -1,0 +1,13 @@
+names:
+- Bicycle
+- Bus
+- Car
+- LCV
+- Person
+- Three Wheeler
+- Truck
+- TwoWheeler
+nc: 10
+test: /content/custom_dataset/test/images
+train: /content/custom_dataset/train/images
+val: /content/custom_dataset/val/images
