@@ -4,6 +4,8 @@ This project focuses on detecting and counting vehicles from CCTV footage across
 
 ## **Step-by-Step Instructions to create the Docker File**
 
+Our docker file link : https://hub.docker.com/repository/docker/megmary/project-demo/general
+
 ### **Prerequisites**
 Ensure Docker is installed on your machine. You can follow the Docker installation guide for your operating system.
 
@@ -16,16 +18,28 @@ Ensure Docker is installed on your machine. You can follow the Docker installati
 cd EmobilityHackathon`
 
 2. Build the docker image
-   
-`docker build -t emobility-hackathon` 
 
+`docker build -t project-demo` 
 
 ### **Running the Docker Container**
 
-`docker run -it --rm -v $(pwd):/app emobility-hackathon`
+` docker run -it -v (local host path) python3 run.py input.json`
+
+### **Working with Docker**
+
+![WhatsApp Image 2024-08-26 at 19 42 50_6d2a1421](https://github.com/user-attachments/assets/4bfce18e-4cba-4024-99c9-fbbedf360c16)
 
 
-![image](https://github.com/user-attachments/assets/8b08d8b9-5af4-48bc-b940-2c0e8696b6ca)
+### **Find and navigate to container- files**
+
+1. Mount latest.pt
+
+2. Run git clone and wget
+
+3. Find path of latest.pt from cloned repository
+
+4. Copy paste hardcodedct2 into run.py
+
 
 ## **Names and descriptions of the various notebooks used**
 **1. Yolov7_custom_Training.ipynb**
