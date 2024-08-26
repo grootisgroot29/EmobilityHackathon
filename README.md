@@ -86,7 +86,9 @@ This is the placeholder for the README file that usually contains detailed instr
 
 A requirements.txt file includes the necessary libraries for vehicle detection and counting using YOLOv7, Roboflow, centroid tracking, time series prediction with Prophet, and data storage using CSV or JSON files. It also covers dependencies for Docker.
 
-![image](https://github.com/user-attachments/assets/313515fb-c6f7-42df-8842-2dd99a78701b)
+![image](https://github.com/user-attachments/assets/8d6dd05c-9c0a-4a62-9e90-0f01d3012631)
+![image](https://github.com/user-attachments/assets/7be61351-2e9e-4723-821a-42f728d9b2f5)
+
 
 ## Open source models used
 
