@@ -1,4 +1,4 @@
-# Vehicle Detection and Class Wise Counting System and Prediction using YOLO v7
+# Vehicle Detection, Class Wise Counting System, Tracking and Prediction using YOLO v7
 
 This project focuses on detecting and counting vehicles from CCTV footage across various regions in Bengaluru. The objective is to classify vehicles by type (e.g. Bicycle, Bus, Cars, Two-wheelers, Three-wheelers, LCV, Person, Truck) and predict vehicle counts for the next 30 minutes based on historical data.
 
