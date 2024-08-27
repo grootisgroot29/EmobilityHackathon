@@ -30,7 +30,6 @@ scikit-learn
 prophet
 
 # Data Storage-------------------------------
-pandas
 csv file
 json file
 
@@ -38,8 +37,6 @@ json file
 docker
 
 # Extras --------------------------------------
-requests
-matplotlib
 ipython 
 psutil 
 thop  
