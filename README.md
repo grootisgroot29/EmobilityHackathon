@@ -19,11 +19,11 @@ cd EmobilityHackathon`
 
 2. Build the docker image
 
-`docker build -t project-demo` 
+`docker build -t emobility` 
 
 ### **Running the Docker Container**
 
-` docker run -it -v (local host path) python3 run.py input.json`
+` docker run -it -v (local host path) python3 hac.py input.json`
 
 ### **Working with Docker**
 
