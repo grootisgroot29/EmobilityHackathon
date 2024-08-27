@@ -48,9 +48,9 @@ cd EmobilityHackathon`
 
 The training data file referenced in the code is used to train the YOLOv7 model for vehicle detection and counting. It contains labeled images of vehicles done with the help of Roboflow, which the model uses to learn how to identify and count various vehicle classes in new images or video streams, optimizing for real-time traffic analysis.
 
-**2. directory_and_yaml_file_creation.ipynb**
+**2. Traffic_Titans_Evaluation_Notebook.ipynb**
 
-This notebook likely contains code for organizing the dataset into the required directory structure for YOLOv7 and generating the `data.yaml` file. It helps ensure that the data is in the correct format for training.
+The notebook contains code that detects and tracks vehicles in video streams using YOLOv7 and a Centroid Tracker. It counts the vehicles by class, tracks their movement across defined margins, and predicts future vehicle counts using the Prophet model. The results are saved in a CSV file for tracking data and a JSON file for predictions.
 
 **3. data.yaml**
 
