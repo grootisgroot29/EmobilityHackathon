@@ -29,7 +29,7 @@ cd EmobilityHackathon`
 
 ### **Working with Docker**
 
-![WhatsApp Image 2024-08-26 at 19 42 50_6d2a1421](https://github.com/user-attachments/assets/4bfce18e-4cba-4024-99c9-fbbedf360c16)
+![WhatsApp Image 2024-08-27 at 22 05 03_2a40d903](https://github.com/user-attachments/assets/cf04cb41-638e-4f61-989f-c480ea5e879a)
 
 
 ### **Find and navigate to container- files**
