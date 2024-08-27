@@ -44,7 +44,7 @@ cd EmobilityHackathon`
 
 
 ## **Names and descriptions of the various notebooks used**
-**1. Yolov7_custom_Training.ipynb**
+**1. Traffic_Titans_Training_Notebook.ipynb**
 
 The training data file referenced in the code is used to train the YOLOv7 model for vehicle detection and counting. It contains labeled images of vehicles done with the help of Roboflow, which the model uses to learn how to identify and count various vehicle classes in new images or video streams, optimizing for real-time traffic analysis.
 
@@ -83,6 +83,10 @@ The .gitattributes file configuration you provided specifies how certain file ty
 **6. README.md**
 
 This is the placeholder for the README file that usually contains detailed instructions on how to set up, run, and contribute to the project.
+
+**7. hac.py**
+
+This script detects, tracks, and predicts vehicle counts using YOLOv7 and a Centroid Tracker. It processes video streams, tracks vehicles, and forecasts future counts with the Prophet model. The results are saved as cumulative counts and predictions in a JSON file.
 
 ## **Requirements.txt**
 
