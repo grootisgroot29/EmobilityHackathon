@@ -88,8 +88,54 @@ This is the placeholder for the README file that usually contains detailed instr
 
 A requirements.txt file includes the necessary libraries for vehicle detection and counting using YOLOv7, Roboflow, centroid tracking, time series prediction with Prophet, and data storage using CSV or JSON files. It also covers dependencies for Docker.
 
-![image](https://github.com/user-attachments/assets/8d6dd05c-9c0a-4a62-9e90-0f01d3012631)
-![image](https://github.com/user-attachments/assets/7be61351-2e9e-4723-821a-42f728d9b2f5)
+![image](https://github.com/user-attachments/assets/9d88dc2e-3164-4663-831e-4d1514530632)
+![image](https://github.com/user-attachments/assets/109ce96a-351e-42d2-b3ed-14cdb46ef8f5)
+
+- matplotlib: A plotting library used to create static, animated, and interactive visualizations in Python.
+
+-  numpy: A fundamental package for numerical computations in Python, particularly with arrays and matrices.
+
+- opencv-python: A library that provides tools for real-time computer vision, image processing, and machine learning.
+
+- Pillow: A Python Imaging Library (PIL) fork, used for opening, manipulating, and saving various image file formats.
+
+- PyYAML: A YAML parser and emitter for Python, used to handle configuration files written in YAML format.
+
+- requests: A simple HTTP library for making requests and handling responses from web services.
+
+- scipy: A scientific computing library that builds on numpy, providing tools for optimization, integration, and statistics.
+
+- torch: A deep learning framework that provides a wide range of tools for building and training neural networks.
+
+- torchvision: A package containing popular datasets, model architectures, and image transformations for computer vision.
+
+- tqdm: A library for adding progress bars to loops and tasks in Python, enhancing user feedback.
+
+- protobuf: A mechanism for serializing structured data, used for efficient data exchange between systems.
+
+- tensorboard: A tool for visualizing training metrics and debugging deep learning models.
+
+- pandas: A powerful data analysis and manipulation library, providing data structures like DataFrames.
+
+- seaborn: A statistical data visualization library based on matplotlib, used for making complex plots simpler.
+
+- roboflow: An SDK for integrating with the Roboflow platform, used for managing and deploying computer vision models.
+
+- scikit-learn: A machine learning library providing tools for data mining, analysis, and building predictive models.
+
+- prophet: A time series forecasting library designed for handling daily seasonality and holidays.
+
+- csv file: A standard format for storing tabular data, used for reading and writing data in plain text.
+
+- json file: A lightweight data-interchange format that's easy for humans to read and write, and machines to parse.
+
+- docker: A platform for developing, shipping, and running applications inside lightweight, portable containers.
+
+- ipython: An interactive Python shell with advanced features for introspection, rich media, and embedded code.
+
+- psutil: A library for retrieving information on system utilization (CPU, memory, disks, network, etc.) in Python.
+
+- thop: A tool for profiling deep learning models, estimating their FLOPs (floating point operations) and parameters.
 
 
 ## Open source models used
