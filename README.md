@@ -6,6 +6,8 @@ This project focuses on detecting and counting vehicles from CCTV footage across
 
 Our docker file link : https://hub.docker.com/repository/docker/megmary/project-demo/general
 
+**Please do not give an output file as a parameter when you run the docker image, there will be an automatic output_files. Json created in your local file path after the code runs**
+
 ### **Prerequisites**
 Ensure Docker is installed on your machine. You can follow the Docker installation guide for your operating system.
 
